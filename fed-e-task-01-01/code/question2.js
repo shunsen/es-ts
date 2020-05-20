@@ -1,0 +1,5 @@
+var temp = 123;
+if(true){
+    console.log(tmp)
+    let temp;
+}
